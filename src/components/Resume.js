@@ -1,11 +1,6 @@
-
-
 export default function Resume() {
- 
   return (
-   
-
-    <section  id="Resume" class=" b rounded-md">
+    <section id="Resume" class=" b rounded-md">
       <div class="px-4 mx-auto max-w-screen-xl text-center   py-24 lg:py-52">
         <h1 class="mb-4 text-4xl font-extrabold tracking-tight leading-none text-white md:text-5xl lg:text-6xl">
           ABOUT ME
@@ -18,7 +13,7 @@ export default function Resume() {
         </p>
         <div class="flex flex-col space-y-4 sm:flex-row sm:justify-center sm:space-y-0">
           <a
-            href="https://acrobat.adobe.com/id/urn:aaid:sc:AP:74b05de0-c92a-4be1-9b59-f8181ed25e59"
+            href="https://acrobat.adobe.com/id/urn:aaid:sc:AP:adb98410-cb7a-431e-8284-3d4031c1bb43"
             class="inline-flex justify-center items-center py-3 px-5 text-base font-medium text-center text-white rounded-lg bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 dark:focus:ring-blue-900"
           >
             Resume
